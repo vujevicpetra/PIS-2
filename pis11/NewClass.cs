@@ -6,5 +6,9 @@ namespace pis11
 {
     class NewClass
     {
+        static void MyMethod()
+        {
+
+        }
     }
 }
