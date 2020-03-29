@@ -10,6 +10,5 @@ namespace pis11
         {
 
         }
-         Console.WriteLine("Hello World!");
     }
 }
