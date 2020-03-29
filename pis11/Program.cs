@@ -7,6 +7,7 @@ namespace pis11
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Josipa je najlosiji student na fesbu") //ovo je editano od strane suradnika
         }
     }
 }
